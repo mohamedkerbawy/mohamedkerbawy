@@ -1,6 +1,6 @@
 # 👋 Mohamed Kerbawy
 
- Software Development | Software Quality Engineering | CI/CD
+ Software Development | Software Quality Engineering | Continuous Integration and Delivery
 
 ## ⚒️ Tools Currently Using
 
@@ -14,7 +14,7 @@
 |NUnit|Postman|JMeter|OWASP ZAP| Playwright| Cucumber |
 |---|---|---|---|---|---|
 
-### Continuous Integration/Delivery
+### Continuous Integration and Delivery
   
 |Jenkins|Azure Pipelines|GitHub Actions|
 |---|---|---|
