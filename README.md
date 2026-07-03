@@ -1,23 +1,23 @@
 # 👋 Mohamed Kerbawy
 
- Software Development | Software Quality Engineering | Continuous Integration and Delivery
+ Software Development | Software Quality Engineering
 
 ## ⚒️ Tools Currently Using
 
 ### Software Development
   
-|C#|ASP.NET|Web API|Blazor|SQL Server|Docker| VS Code |
-|---|---|---|---|---|---|---|
+|C#|ASP.NET|Web API|SQL Server|Docker|VS Code|
+|---|---|---|---|---|---|
 
 ### Software Quality Engineering
   
-|NUnit|Postman|JMeter|OWASP ZAP| Playwright| Cucumber |
-|---|---|---|---|---|---|
+|NUnit|Postman|JMeter|OWASP ZAP|Selenium|Playwright|Cucumber|
+|---|---|---|---|---|---|---|
 
 ### Continuous Integration and Delivery
   
-|Jenkins|Azure Pipelines|GitHub Actions|
-|---|---|---|
+|Azure Pipelines|GitHub Actions|
+|---|---|
 
 ## 📫 Reach me
 
