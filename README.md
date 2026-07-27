@@ -80,7 +80,7 @@ $ ls tools/
 ![JMeter](https://img.shields.io/badge/JMeter-16A394?style=flat-square&logo=jmeter&logoColor=white)
 
 
-**CI/CD**
+**ALM & TM & CI/CD**
 
 ![Git](https://img.shields.io/badge/Git-16A394?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-16A394?style=flat-square&logo=githubactions&logoColor=white)
