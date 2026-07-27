@@ -4,7 +4,7 @@
 
 ### Software Quality Engineering Expert
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1200&color=2F6FED&center=true&vCenter=true&width=650&lines=I+diagnose+root+causes%2C+not+just+defects;15%2B+years+in+Dev+%26+Quality+Engineering;Backend+Testing+%7C+Test+Automation+%7C+CI%2FCD" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1200&color=2F6FED&center=true&vCenter=true&width=650&lines=15%2B+years+in+Dev+%26+Quality+Engineering;Backend+Testing+%7C+Test+Automation+%7C+CI%2FCD" alt="typing-svg" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-12161C?style=for-the-badge&logo=googlechrome&logoColor=2F6FED)](https://mohamedkerbawy.github.io/)
 [![Case Studies](https://img.shields.io/badge/Case%20Studies-12161C?style=for-the-badge&logo=readdotcv&logoColor=16A394)](https://mohamedkerbawy.github.io/#case-studies)
