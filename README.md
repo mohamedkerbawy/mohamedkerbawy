@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-12161C?style=for-the-badge&logo=googlechrome&logoColor=2F6FED)](https://mohamedkerbawy.github.io/)
 [![Case Studies](https://img.shields.io/badge/Case%20Studies-12161C?style=for-the-badge&logo=readdotcv&logoColor=16A394)](https://mohamedkerbawy.github.io/#case-studies)
-[![Blog](https://img.shields.io/badge/Blog-12161C?style=for-the-badge&logo=rss&logoColor=F2A93B)](https://mohamedkerbawy.github.io/blog.html)
+[![Blog](https://img.shields.io/badge/Blog-12161C?style=for-the-badge&logo=rss&logoColor=F2A93B)](https://computingkeys.blogspot.com/)
 [![CV](https://img.shields.io/badge/CV-12161C?style=for-the-badge&logo=googledocs&logoColor=2F6FED)](https://mohamedkerbawy.github.io/cv.html)
 
 </div>
