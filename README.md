@@ -19,15 +19,9 @@
 $ cat about.txt
 ```
 
-I help organizations deliver **reliable, scalable, production-ready software**
-through technical quality engineering. With **14+ years** of experience in
-software development and quality engineering, I specialize in API and backend
-testing, database validation, performance testing, test automation frameworks,
-and risk-based test strategy.
+I help organizations deliver **reliable, scalable, and production-ready software** through technical quality engineering. With 14+ years of experience in the software industry, including 8 years focused on software quality engineering and prior experience in software development, I specialize in technical testing, including API and backend testing, database testing and validation, performance testing, test automation architecture, and risk-based test strategy. 
 
-I don't just find defects — I diagnose their root causes and help teams
-resolve them faster, working across the full SDLC with CI/CD-integrated
-testing to reduce delivery risk and increase release confidence.
+I don't just find defects — I diagnose their root causes and help teams resolve them faster. I work across the full software development lifecycle, embedding automation and CI/CD-integrated testing to reduce delivery risk, accelerate software delivery, and increase release confidence.
 
 <br>
 
@@ -38,7 +32,7 @@ $ ls skills/
 **Technical Testing**
 
 ![API & Backend Testing](https://img.shields.io/badge/API%20%26%20Backend%20Testing-2F6FED?style=flat-square)
-![Database & SQL Validation](https://img.shields.io/badge/Database%20%26%20SQL%20Validation-2F6FED?style=flat-square)
+![Database Testing & Validation](https://img.shields.io/badge/Database%20Testing%20%26%20Validation-2F6FED?style=flat-square)
 ![Performance Testing](https://img.shields.io/badge/Performance%20Testing-2F6FED?style=flat-square)
 ![Test Automation](https://img.shields.io/badge/Test%20Automation-2F6FED?style=flat-square)
 ![Continuous Testing in CI/CD](https://img.shields.io/badge/Continuous%20Testing%20in%20CI%2FCD-2F6FED?style=flat-square)
@@ -56,7 +50,7 @@ $ ls skills/
 $ ls tools/
 ```
 
-**Unit Testing & Automation**
+**Code & Unit Testing & Automation**
 
 ![.NET C#](https://img.shields.io/badge/.NET%20C%23-16A394?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-16A394?style=flat-square&logo=java&logoColor=white)
@@ -68,9 +62,8 @@ $ ls tools/
 ![Appium](https://img.shields.io/badge/Appium-16A394?style=flat-square&logo=appium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-16A394?style=flat-square&logo=playwright&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-16A394?style=flat-square&logo=cucumber&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-16A394?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**API & DataBase & Performance Testing**
+**API & Database & Performance Testing**
 
 ![Postman](https://img.shields.io/badge/Postman-16A394?style=flat-square&logo=postman&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/SoapUI-16A394?style=flat-square&logo=soupui&logoColor=white)
